@@ -1,0 +1,8 @@
+It is simply a list of Python libraries used in my project.
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+tensorflow
+keras
